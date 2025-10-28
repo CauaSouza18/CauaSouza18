@@ -29,6 +29,4 @@ Focado em organização e automação de processos de lojas de tecnologia.
 ### 📫 Contato
 - 📧 caua0177@gmail.com
 
-<p align="center">
-  <sub>💻 Desenvolvido com dedicação e café ☕</sub>
-</p>
+
