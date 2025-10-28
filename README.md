@@ -5,7 +5,7 @@
 </p>
 
 ### 🧠 Sobre mim
-Olá! Meu nome é **Cauã Souza**, e atualmente estudo **Desenvolvimento de Sistemas**.  
+Olá! Meu nome é **Cauã Souza** tenho 18 anos, e atualmente estudo **Desenvolvimento de Sistemas**.  
 Sou apaixonado por tecnologia e estou focado em aprimorar minhas habilidades no **Back-End**,  
 principalmente com **Java** e **SQL**, desenvolvendo sistemas sólidos e bem estruturados.  
 
