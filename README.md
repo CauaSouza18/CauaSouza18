@@ -1,32 +1,53 @@
-<h1 align="center"> Cauã Souza</h1>
+<h1 align="center">✨ Cauã Souza ✨</h1>
 
 <p align="center">
   <em>Aprendendo a ser Desenvolvedor Back-End</em>
 </p>
 
-### 🧠 Sobre mim
-Olá! Meu nome é **Cauã Souza** tenho 18 anos, e atualmente estudo **Desenvolvimento de Sistemas**.  
-Sou apaixonado por tecnologia e estou focado em aprimorar minhas habilidades no **Back-End**,  
-principalmente com **Java** e **SQL**, desenvolvendo sistemas sólidos e bem estruturados.  
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" alt="Terminal Coding GIF" width="500">
+</p>
 
-### ⚙️ Linguagens e Tecnologias que estou aprendendo
+---
+
+### 🧠 Sobre mim
+
+Olá! Meu nome é **Cauã Souza**, tenho 18 anos e atualmente estudo **Desenvolvimento de Sistemas**.  
+Sou apaixonado por tecnologia e estou focado em evoluir como **Desenvolvedor Back-End**,  
+principalmente com **Java** e **SQL**, criando sistemas sólidos, limpos e bem estruturados.
+
+---
+
+### ⚙️ Tecnologias que estou aprendendo
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
 </p>
 
-### 📊 Estatísticas
+---
+
+### 📊 Estatísticas GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caua-souza&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Cauã Souza" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-souza&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caua-souza&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-souza&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
 ### 🏗️ Projeto em Destaque
-📦 **Sistema de Controle de Estoque - Loja de Informática**  
+
+📦 **Sistema de Controle de Estoque — Loja de Informática**  
 Desenvolvido como projeto integrador para gerenciar produtos, fornecedores e movimentações de estoque.  
-Focado em organização e automação de processos de lojas de tecnologia.  
-> 💾 Tecnologias: *MySQL, Java, SQL, Workbench*
+Focado em organização e automação de processos de lojas de tecnologia.
+
+> 💾 **Tecnologias:** *MySQL, Java, SQL, Workbench*
+
+---
 
 ### 📫 Contato
-- 📧 caua0177@gmail.com
 
+- 📧 **E-mail:** caua0177@gmail.com  
+
+---
 
