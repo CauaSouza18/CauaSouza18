@@ -28,10 +28,9 @@ Sou apaixonado por tecnologia e estou focado em evoluir como **Desenvolvedor Bac
 ### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaSouza18&show_icons=true&theme=tokyonight&cache_seconds=7200" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaSouza18&layout=compact&theme=tokyonight&cache_seconds=7200" />
+  <img height="180em" src="https://github-readme-stats-codestackr.vercel.app/api?username=CauaSouza18&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=CauaSouza18&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ### 🏗️ Projeto em Destaque
