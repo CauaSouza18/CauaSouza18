@@ -1,12 +1,9 @@
-<h1 align="center">✨ Cauã Souza ✨</h1>
+<h1 align="center">Cauã Souza </h1>
 
 <p align="center">
   <em>Aprendendo a ser Desenvolvedor Back-End</em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Terminal Coding GIF" width="500">
-</p>
 
 ---
 
@@ -25,13 +22,6 @@ Sou apaixonado por tecnologia e estou focado em evoluir como **Desenvolvedor Bac
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-codestackr.vercel.app/api?username=CauaSouza18&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=CauaSouza18&layout=compact&theme=tokyonight" />
-</p>
----
 
 ### 🏗️ Projeto em Destaque
 
