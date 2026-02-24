@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia e estou focado em evoluir como **Desenvolvedor Bac
 ### ⚙️ Tecnologias que estou aprendendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
 </p>
 
 ---
